@@ -6,6 +6,7 @@
   - [IN Query](#in-query)
   - [UPDATE Documents](#update-documents)
   - [DELETE Documents](#delete-documents)
+  - [FIND Documents](#find-documents)
 
 
 ## AND Query
@@ -28,3 +29,6 @@
 
 - Delete All
 - Delete One
+
+## FIND Documents
+[FIND-Documents](FIND-Documents)

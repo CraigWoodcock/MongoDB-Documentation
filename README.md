@@ -5,6 +5,7 @@
   - [OR Query](#or-query)
   - [IN Query](#in-query)
   - [UPDATE Documents](#update-documents)
+  - [DELETE Documents](#delete-documents)
 
 
 ## AND Query
@@ -21,3 +22,9 @@
 
 - updateOne()
 - updateMany()
+
+## DELETE Documents
+[DELETE-Documents](DELETE-Documents)
+
+- Delete All
+- Delete One
